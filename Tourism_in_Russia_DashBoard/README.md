@@ -18,7 +18,6 @@
 
 ## Этапы проекта
 - **Предобработать данные по въездным и выездным турпоездкам с 2016 по 2025 год (квартальные данные) – [Тетрадка](https://github.com/Sanpagan/Pet_projects_tourism/blob/main/Tourism_in_Russia_DashBoard/Tourism_international_processing.ipynb)** 
-- **Предобработать данные по внутреннему турпотоку с 2022 года (месячные и квартальнве данные) – [Тетрадка](https://github.com/Sanpagan/Pet_projects_tourism/blob/main/Tourism_in_Russia_DashBoard/Tourism_inner_processing.ipynb)**
-- Предобработать данные по коллективным средства размещения с 2022 года (месячные данные)
-- Составить дашборд с основными трендами туристической отрасли с упопром на РФ и Уральский регион
-- [Дашборд пока в процессе](https://public.tableau.com/app/profile/sergey.kalini/viz/TourisminRussia/sheet0_1?publish=yes)
+- **Предобработать данные по внутреннему турпотоку с 2022 года (месячные и квартальные данные) – [Тетрадка](https://github.com/Sanpagan/Pet_projects_tourism/blob/main/Tourism_in_Russia_DashBoard/Tourism_inner_processing.ipynb)**
+- **Предобработать данные по коллективным средства размещения с 2022 года (месячные данные) – [Тетрадка](https://github.com/Sanpagan/Pet_projects_tourism/blob/main/Tourism_in_Russia_DashBoard/Tourism_KSR_processing.ipynb)**
+- Составить дашборд с основными трендами туристической отрасли с упопром на РФ и Уральский регион [Дашборд пока в процессе](https://public.tableau.com/app/profile/sergey.kalini/viz/TourisminRussia/sheet0_1?publish=yes)
